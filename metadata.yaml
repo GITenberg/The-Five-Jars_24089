@@ -1,0 +1,33 @@
+_repo: The-Five-Jars_24089
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: James, M. R. (Montague Rhodes)
+    aliases:
+    - James, Montague Rhodes
+    - James, M.R.
+    birthdate: 1862
+    deathdate: 1936
+    gutenberg_agent_id: '2768'
+    url: http://www.gutenberg.org/2009/agents/2768
+    wikipedia: http://en.wikipedia.org/wiki/M._R._James
+description: Looking for a spooky tale to read in front of the fireplace on Halloween
+  or around the campfire on your next outdoor adventure? The Five Jars from M.R. James,
+  master of the Victorian ghost story, is a frightening but family-friendly yarn that
+  will tantalize young and old alike.
+gutenberg_issued: '2007-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24089'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fantasy fiction, English'
+title: The Five Jars
+url: http://www.gutenberg.org/ebooks/24089
